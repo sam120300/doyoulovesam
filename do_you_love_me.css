@@ -9,8 +9,12 @@ body {
   display: grid;
   justify-content: center;
   align-items: center;
-  background-color: #ffe6e9;
+  background-color: #3f3f3f;
   font-family: "Quicksand", sans-serif;
+  background-image: url("/img3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .container {
   position: absolute;
